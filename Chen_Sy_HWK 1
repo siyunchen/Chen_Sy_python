@@ -100,7 +100,7 @@ is_a_vowel('A')
 
 '''
 # Q5 Write a function translate()that will translate a text into 
-     "rövarspråket" (Swedish for "robber's language").
+     "rövarspråket" (Swedish for "robber's language").
 '''
 vowels = ('a', 'e', 'i', 'o', 'u','A','E','I', 'O', 'U', ' ')
 # List all the vowels.
