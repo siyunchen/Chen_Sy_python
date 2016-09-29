@@ -4,7 +4,7 @@ Created on Thu Sep  8 19:35:52 2016
 
 @author: SiyunChen
 """
-
+#Overall Comment: Very good practise! You have carefully considered each possible situations. And the logic is clear and efficient.
 '''
 # Q1 Define a function max()that takes two numbers as arguments 
      and returns the largest of them.
@@ -20,6 +20,8 @@ def print_max(a, b):
 
 print_max(4, 10) 
 # call the function
+#Comment: You don't need # inside the triple '''
+
 
 print_max(5,5) 
 # call the function again
@@ -51,6 +53,7 @@ max_of_three(6, 1, 2)
 
 max_of_three(9, 16 ,5) 
 # call the function again
+#Comment: Good logic, this is efficient and clear.
 
 
 '''
@@ -96,6 +99,7 @@ is_a_vowel('b')
 
 is_a_vowel('A')
 # call the function
+#Comment: Very good, cover all possible situations.
 
 
 '''
@@ -138,7 +142,7 @@ def sum(inputNumbers):
         total = total + number # Add number in the inputString to the total 
                                # and assign the result to total. 
     return total
- 
+#Comment: You can choose other name for the function, do not conflict with the default function.
  
 def multiply(inputNumbers):
 # Define a function to find the muptiplication of given list of numbers.
@@ -176,7 +180,7 @@ print(reverse('This was good '))
 
 print(reverse('This is fun'))
 # call the function again
-
+#Comment: Good use of the joint
 
 '''
 # Q8 Define a function is_palindrome()that recognizes palindromes 
