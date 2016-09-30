@@ -4,6 +4,9 @@ Created on Thu Sep  8 19:35:52 2016
 
 @author: SiyunChen
 """
+#Your grade is influenced by your format, please refer to the format that Professor G has shown during the lecture. The content
+#we expect is the question you are trying to solve, the input variables you use and the output you expect. Once you corrected
+#them, I am more than happy to give your mark back!
 #Overall Comment: Very good practise! You have carefully considered each possible situations. And the logic is clear and efficient.
 '''
 # Q1 Define a function max()that takes two numbers as arguments 
