@@ -8,6 +8,8 @@ Created on Thu Sep 15 19:02:13 2016
 '''
 HW 2 Groups E
 '''
+#Overall Comment: Very good exercise, the format and comments showed your deep understanding of the code and the problems you
+#                 are trying to solve.
 # Q1 
 def lexicon_dic(inputWord):
     '''
